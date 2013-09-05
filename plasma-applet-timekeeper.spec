@@ -3,7 +3,7 @@
 
 Summary:	Plasma applet that provides clock and calendar via steampunk interface
 Name:		plasma-applet-%{oname}
-Version:	0.4
+Version:	0.5
 Release:	1
 License:	GPLv3+
 Group:		Graphical desktop/KDE
