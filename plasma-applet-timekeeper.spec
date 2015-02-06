@@ -4,7 +4,7 @@
 Summary:	Plasma applet that provides clock and calendar via steampunk interface
 Name:		plasma-applet-%{oname}
 Version:	0.5.1
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
 Url:		http://kde-apps.org/content/show.php/Time+Keeper?content=%{kdeid}
