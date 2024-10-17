@@ -7,7 +7,7 @@ Version:	0.5.1
 Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
-Url:		http://kde-apps.org/content/show.php/Time+Keeper?content=%{kdeid}
+Url:		https://kde-apps.org/content/show.php/Time+Keeper?content=%{kdeid}
 Source0:	http://kde-apps.org/CONTENT/content-files/%{kdeid}-%{oname}-%{version}.plasmoid
 BuildRequires:	imagemagick
 BuildRequires:	kde4-macros
